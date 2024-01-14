@@ -4,7 +4,7 @@ Frustrated by persistent anomalies and containment breaches at Site-02, the O5 C
 
 Default Config:
 
-``RRH:
+```RRH:
   is_enabled: true
   debug: false
   health: 200
@@ -18,4 +18,4 @@ Default Config:
   broadcast_to_show: 'You''ve spawned as a MTF Alpha - 1 Unit!'
   min_wave_size: 3
   max_wave_size: -1
-  role: NtfCaptain``
+  role: NtfCaptain```
