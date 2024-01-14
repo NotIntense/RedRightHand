@@ -1,1 +1,3 @@
 # Red Right Hand - Alpha-1 MTF Unit Plugin
+
+Frustrated by persistent anomalies and containment breaches at Site-02, the O5 Council has reluctantly dispatched Alpha-1 "Red Right Hand" to tackle the challenges that no one else can handle. This plugin introduces a new Mobile Task Force (MTF) unit, Alpha-1, renowned as the "Red Right Hand." Operating at the highest level, they report directly to the O5 Council, equipped with cutting-edge weaponry, heavy armor, and exceptional resilience. Every aspect of this MTF unit is customizable through the configuration settings, providing flexibility for integration into various games.
